@@ -2,6 +2,12 @@
 
 ---
 
+![Codex Sinaiticus](imgs/intro_img.jpg)
+
+<small>A scholar examines a passage from the [Codex Sinaiticus](http://www.codexsinaiticus.org/en/manuscript.aspx), the oldest extant copy of the gospels, c. 330 - 360</small>
+
+---
+
 ### Digital Workbook for *HIS4936* @ [University of South Florida](http://www.usf.edu/)
 
 **Instructor**: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](http://thePortus.com/)
