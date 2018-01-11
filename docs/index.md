@@ -1,4 +1,4 @@
-# Hacking History: Introduction to Digital Humanities
+# Religions of the Ancient Mediterranean
 
 ---
 
@@ -6,20 +6,16 @@
 
 **Instructor**: [David J. Thomas](mailto::davidjthomas@usf.edu), [thePortus.com](http://thePortus.com/)
 
-**Textbook**: Graham, Shawn, Ian Milligan, and Scott Weingart. *[Exploring Big Historical Data: The Historian's Macroscope](https://www.amazon.com/Exploring-Big-Historical-Data-Historians/dp/1783266376)*, London: Imperial College Press, 2016.
+**Textbooks**:
+
+Beard, Mary, John North, and S. R. F. Price. *Religions of Rome. Vol. 1, A History*. Cambridge: Cambridge University Press, 1998
+
+Beard, Mary, John North, and S. R. F. Price. *Religions of Rome. Vol. 2, A Sourcebook*. Cambridge: Cambridge University Press, 1998
 
 ---
 
-![John Gast's 'American Progress' Overlaid with JavaScript](imgs/intro_img.jpg)
+Worshippers in distant Britain honored a goddess carried there from Egypt, while in Egypt she was never worshipped at all. In a Jewish temple, someone dedicated an altar to God… and his lover. Castrated priests parade the streets of Rome while Roman citizens lament the invasion of foreign cults, yet, they were never so popular as in Rome. In Alexandria Egypt, a rabbi explained Jewish theology to Romans using Greek philosophy. Christians, Jews, and Muslims debated one another using the same symbols and terms.
 
-<small>[American Progress](http://www.jstor.org/stable/3109364), 1872 painting by John Gast overlaid with JavaScript from [AngularJS](https://angularjs.org/)</small>
-
----
-
-Learn to do research digitally, employing technology to pose questions previously unthinkable. Construct data-driven arguments visually, build tools, and create spaces for discussion. This course is an introduction to the emerging field of Digital Humanities, where scholars and students of the social sciences and humanities meet the world of computing. Assuming no extensive prior knowledge of technology, we will learn how to use tools enhance your arguments, find new forms of sources and multiply your productivity.
-
-Make a dynamic map of New York City, displaying the evolving ethnic composition of its neighborhoods over the last century. Scan a diary, convert it to computer-readable text and use the results to map the changing topics and word choices of a historical source over a period of decades. Use network analysis tools to make an interactive social map of the individuals involved in national labor disputes. These are just a few examples of the results possible entirely with free online tools and sources.
-
-Beyond new techniques, students will first encounter some of the major scholarly issues of the field.  We will explore the limitations and dangers digital methods, asking: to what extent can data be objective? Students will create one individual digital project, and one as a class.
+Full of contradictions and paradoxes, ancient religious practice has frustrated the attempts of scholars to classify it for generations. Myths were important, but they were only a small slice of the rich spectrum of ancient religious life. We will explore how scholars have attempted to approach a wide variety of themes as well as how you can pursue your own research. This class consists of weekly readings and short assignments and a research project composed of several milestones culminating in a final research paper on a topic of your choosing. You may have a certain amount of leeway on your paper in terms of chronology or geography, as long as you relate it to what we discuss in class.
 
 ---
